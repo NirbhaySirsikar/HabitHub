@@ -1,16 +1,17 @@
-# habithubtest
+# HabitHub
 
-A new Flutter project.
+- An All-in-one super app that combines the power of a habit tracker, to-do list, pomodoro timer, and journaling in one dynamic platform.
+- The project aims to provide users with a comprehensive and streamlined solution to boost productivity, cultivate positive habits, and achieve personal growth.
+- In today's fast-paced world, effective time management, habit formation, and self-reflection are crucial for success and well-being.
+- The Habit Hub offers customizable habit tracking, task management, focused work intervals, and a dedicated space for journaling and reflection.
 
-## Getting Started
+## Tech stack
 
-This project is a starting point for a Flutter application.
+- Flutter for frontend
+- Firebase for backend
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots of the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/NirbhaySirsikar/HabitHub/assets/108933885/700daf4b-a2f2-4566-b548-eadd2485fa0b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/NirbhaySirsikar/HabitHub/assets/108933885/576d7abb-04b3-4fde-8707-9048a40e0977)
