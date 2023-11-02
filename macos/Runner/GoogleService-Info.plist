@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1081541671027-u09p1umv5k3d9jp9q4b3cvgb6v59l899.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1081541671027-u09p1umv5k3d9jp9q4b3cvgb6v59l899</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBF_A5ygR5tqAP35uK8p_ycwkKM1tskJ3I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1081541671027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.habithubtest</string>
+	<key>PROJECT_ID</key>
+	<string>habit-hub-a9730</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habit-hub-a9730.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1081541671027:ios:97a54eb9e5b4a711c85206</string>
+</dict>
+</plist>
